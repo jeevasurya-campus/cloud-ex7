@@ -1,2 +1,2 @@
 print("Hello")
-print("JY, HH, NML, JS")
+print("JY, HH, NML)
